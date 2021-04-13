@@ -1,6 +1,8 @@
 # Game.js
 ## Created this repo just to upload few JS games. 
 
+### Github Pages link: https://shridharkamma.github.io/gamesInJS/
+
 A game just like 'Whac a mole'.
 
 (Just brushing up my JS skills)
